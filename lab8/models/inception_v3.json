@@ -1,0 +1,9 @@
+{
+  "name": "inception_v3",
+  "size": 150,
+  "units": 128,
+  "dropout": 0.8,
+  "extra_units": 0,
+  "base_layers": [],
+  "head_weights": 4
+}

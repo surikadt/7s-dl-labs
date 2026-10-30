@@ -1,0 +1,9 @@
+{
+  "model": "inception_v3",
+  "experiment": "dropout_0.8",
+  "val_loss": 0.09436136484146118,
+  "val_accuracy": 0.9679999947547913,
+  "test_loss": 0.09490211308002472,
+  "test_accuracy": 0.9629999995231628,
+  "parameters": 22065185
+}

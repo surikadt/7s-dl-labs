@@ -1,0 +1,9 @@
+{
+  "model": "resnet50",
+  "experiment": "dropout_0.8",
+  "val_loss": 0.05129067972302437,
+  "val_accuracy": 0.9789999723434448,
+  "test_loss": 0.07620059698820114,
+  "test_accuracy": 0.9660000205039978,
+  "parameters": 23850113
+}
