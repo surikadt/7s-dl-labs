@@ -1,0 +1,17 @@
+model,file,class,category,prediction,human_probability,correct
+baseline,horses_01.jpg,horses,ordinary,horses,7.92915135462159e-36,True
+baseline,horses_02.jpg,horses,white horse,horses,2.065369693895638e-19,True
+baseline,horses_03.jpg,horses,occluded legs,horses,2.2864982740472445e-17,True
+baseline,horses_04.jpg,horses,toy,horses,1.5991003701138455e-21,True
+baseline,humans_01.jpg,humans,long dress,horses,0.00029949782765470445,False
+baseline,humans_02.jpg,humans,long hair,horses,1.8436597542116033e-28,False
+baseline,humans_03.jpg,humans,hat,horses,0.041590314358472824,False
+baseline,ambiguous_01.jpg,ambiguous,horse and human,horses,0.001113357488065958,
+validation,horses_01.jpg,horses,ordinary,horses,2.349530812961742e-11,True
+validation,horses_02.jpg,horses,white horse,humans,0.7808007597923279,False
+validation,horses_03.jpg,horses,occluded legs,horses,3.132095494420839e-12,True
+validation,horses_04.jpg,horses,toy,horses,2.326481080672238e-06,True
+validation,humans_01.jpg,humans,long dress,horses,4.084936517756432e-05,False
+validation,humans_02.jpg,humans,long hair,horses,0.3640698194503784,False
+validation,humans_03.jpg,humans,hat,horses,0.004724468570202589,False
+validation,ambiguous_01.jpg,ambiguous,horse and human,humans,0.9839314818382263,

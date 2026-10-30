@@ -1,0 +1,9 @@
+{
+  "size": 150,
+  "parameters": 9494561,
+  "epochs": 15,
+  "seconds": 84.75133143598214,
+  "train_accuracy": 1.0,
+  "validation_accuracy": 0.82421875,
+  "validation_loss": 3.063429594039917
+}

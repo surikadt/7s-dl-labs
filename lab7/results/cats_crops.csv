@@ -1,0 +1,7 @@
+file,class,before,after,dog_probability,correct_before,correct_after
+cat_01.jpg,cat,dog,dog,0.5872096419334412,False,False
+cat_02.jpg,cat,dog,dog,0.8993710875511169,False,False
+cat_03.jpg,cat,dog,cat,0.07472006231546402,False,True
+cat_05.jpg,cat,dog,cat,0.4249896705150604,False,True
+dog_03.jpg,dog,cat,dog,0.8445931077003479,False,True
+dog_04.jpg,dog,cat,dog,0.8729979991912842,False,True

@@ -1,0 +1,12 @@
+{
+  "name": "rmsprop",
+  "optimizer": "rmsprop",
+  "epochs": 17,
+  "seconds": 79.42921901895897,
+  "best_epoch": 12,
+  "val_loss": 0.5105002522468567,
+  "val_accuracy": 0.753000020980835,
+  "train_accuracy": 0.890999972820282,
+  "test_loss": 0.4881224036216736,
+  "test_accuracy": 0.7770000100135803
+}

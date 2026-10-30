@@ -1,0 +1,7 @@
+{
+  "size": 300,
+  "seconds": 106.64354880602332,
+  "validation_loss": 3.1738452911376953,
+  "validation_accuracy": 0.828125,
+  "train_accuracy": 1.0
+}

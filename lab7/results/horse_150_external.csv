@@ -1,0 +1,9 @@
+model,file,class,category,prediction,human_probability,correct
+150x150,horses_01.jpg,horses,ordinary,horses,4.1730617453061524e-30,True
+150x150,horses_02.jpg,horses,white horse,horses,1.8412129504952254e-29,True
+150x150,horses_03.jpg,horses,occluded legs,horses,1.444713787779593e-17,True
+150x150,horses_04.jpg,horses,toy,horses,1.556191694706058e-15,True
+150x150,humans_01.jpg,humans,long dress,horses,6.245880967981066e-08,False
+150x150,humans_02.jpg,humans,long hair,horses,6.22507859282794e-16,False
+150x150,humans_03.jpg,humans,hat,humans,1.0,True
+150x150,ambiguous_01.jpg,ambiguous,horse and human,horses,3.569194093923367e-13,

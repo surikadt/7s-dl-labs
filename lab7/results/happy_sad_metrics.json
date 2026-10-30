@@ -1,0 +1,5 @@
+{
+  "epochs": 11,
+  "train_accuracy": 1.0,
+  "threshold_reached": true
+}

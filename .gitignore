@@ -3,4 +3,7 @@
 __pycache__/
 *.py[cod]
 kt_v2_dir_*/
-results/
+
+lab7/models/*.keras
+lab8/models/*.keras
+lab9/models/*.keras
