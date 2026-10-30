@@ -1,0 +1,46 @@
+{
+  "name": "inception_v3",
+  "size": 150,
+  "units": 128,
+  "dropout": 0.8,
+  "extra_units": 0,
+  "base_layers": [
+    {
+      "index": 280,
+      "name": "conv2d_89"
+    },
+    {
+      "index": 283,
+      "name": "conv2d_86"
+    },
+    {
+      "index": 284,
+      "name": "conv2d_90"
+    },
+    {
+      "index": 289,
+      "name": "conv2d_87"
+    },
+    {
+      "index": 290,
+      "name": "conv2d_88"
+    },
+    {
+      "index": 291,
+      "name": "conv2d_91"
+    },
+    {
+      "index": 292,
+      "name": "conv2d_92"
+    },
+    {
+      "index": 294,
+      "name": "conv2d_85"
+    },
+    {
+      "index": 299,
+      "name": "conv2d_93"
+    }
+  ],
+  "head_weights": 4
+}

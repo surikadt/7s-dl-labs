@@ -1,0 +1,9 @@
+{
+  "model": "vgg16",
+  "fine_experiment": "two_blocks",
+  "val_loss": 0.055567432194948196,
+  "val_accuracy": 0.9779999852180481,
+  "test_loss": 0.12693741917610168,
+  "test_accuracy": 0.9589999914169312,
+  "head_experiment": "dropout_0.8"
+}

@@ -1,0 +1,9 @@
+{
+  "model": "resnet50",
+  "fine_experiment": "adam_1e-06",
+  "val_loss": 0.050095293670892715,
+  "val_accuracy": 0.9800000190734863,
+  "test_loss": 0.07350162416696548,
+  "test_accuracy": 0.9679999947547913,
+  "head_experiment": "dropout_0.8"
+}

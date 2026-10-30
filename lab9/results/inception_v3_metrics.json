@@ -1,0 +1,9 @@
+{
+  "model": "inception_v3",
+  "fine_experiment": "sgd",
+  "val_loss": 0.09430139511823654,
+  "val_accuracy": 0.9679999947547913,
+  "test_loss": 0.09480217844247818,
+  "test_accuracy": 0.9629999995231628,
+  "head_experiment": "dropout_0.8"
+}

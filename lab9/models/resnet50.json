@@ -1,0 +1,22 @@
+{
+  "name": "resnet50",
+  "size": 150,
+  "units": 128,
+  "dropout": 0.8,
+  "extra_units": 0,
+  "base_layers": [
+    {
+      "index": 165,
+      "name": "conv5_block3_1_conv"
+    },
+    {
+      "index": 168,
+      "name": "conv5_block3_2_conv"
+    },
+    {
+      "index": 171,
+      "name": "conv5_block3_3_conv"
+    }
+  ],
+  "head_weights": 4
+}

@@ -1,0 +1,34 @@
+{
+  "name": "vgg16",
+  "size": 150,
+  "units": 128,
+  "dropout": 0.8,
+  "extra_units": 0,
+  "base_layers": [
+    {
+      "index": 11,
+      "name": "block4_conv1"
+    },
+    {
+      "index": 12,
+      "name": "block4_conv2"
+    },
+    {
+      "index": 13,
+      "name": "block4_conv3"
+    },
+    {
+      "index": 15,
+      "name": "block5_conv1"
+    },
+    {
+      "index": 16,
+      "name": "block5_conv2"
+    },
+    {
+      "index": 17,
+      "name": "block5_conv3"
+    }
+  ],
+  "head_weights": 4
+}
